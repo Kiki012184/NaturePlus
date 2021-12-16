@@ -1,0 +1,1641 @@
+[
+  {
+    "id":"$K012_tree_oak_light",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "meta":{
+      "tags":{
+        "ranger tree":{
+          
+        }
+      }
+    },
+    "title id":"draft_tree_oak_title",
+    "map color":{
+      "r":42,
+      "g":75,
+      "b":32
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_Oak_light.png",
+        "count":8,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_oak_medium",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "meta":{
+      "tags":{
+        "ranger tree":{
+          
+        }
+      }
+    },
+    "title id":"draft_tree_oak_title",
+    "map color":{
+      "r":42,
+      "g":75,
+      "b":32
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_Oak_medium.png",
+        "count":8,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_oak_dense",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "meta":{
+      "tags":{
+        "ranger tree":{
+          
+        }
+      }
+    },
+    "title id":"draft_tree_oak_title",
+    "map color":{
+      "r":42,
+      "g":75,
+      "b":32
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_Oak_dense.png",
+        "count":8,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_stonepine_light",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "meta":{
+      "tags":{
+        "ranger tree":{
+          
+        }
+      }
+    },
+    "title id":"draft_tree_stonepine_title",
+    "map color":{
+      "r":140,
+      "g":158,
+      "b":97
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_stonepine_light.png",
+        "count":12,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_stonepine_medium",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "meta":{
+      "tags":{
+        "ranger tree":{
+          
+        }
+      }
+    },
+    "title id":"draft_tree_stonepine_title",
+    "map color":{
+      "r":140,
+      "g":158,
+      "b":97
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_stonepine_medium.png",
+        "count":12,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_stonepine_dense",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "meta":{
+      "tags":{
+        "ranger tree":{
+          
+        }
+      }
+    },
+    "title id":"draft_tree_stonepine_title",
+    "map color":{
+      "r":140,
+      "g":158,
+      "b":97
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_stonepine_dense.png",
+        "count":9,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_palm_light",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_palm_title",
+    "map color":{
+      "r":109,
+      "g":163,
+      "b":103
+    },
+    "category":"$cat_nat_tree00",
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_palm_light.png",
+        "count":12,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_palm_medium",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_palm_title",
+    "map color":{
+      "r":109,
+      "g":163,
+      "b":103
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_palm_medium.png",
+        "count":7,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_palm_dense",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_palm_title",
+    "map color":{
+      "r":109,
+      "g":163,
+      "b":103
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_palm_dense.png",
+        "count":6,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_bamboo_light",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_bamboo_title",
+    "map color":{
+      "r":157,
+      "g":195,
+      "b":101
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_bamboo_light.png",
+        "count":12,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_bamboo_medium",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_bamboo_title",
+    "map color":{
+      "r":157,
+      "g":195,
+      "b":101
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_bamboo_medium.png",
+        "count":12,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_bamboo_dense",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_bamboo_title",
+    "map color":{
+      "r":157,
+      "g":195,
+      "b":101
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_bamboo_dense.png",
+        "count":12,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_poplar_light",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_poplar_title",
+    "map color":{
+      "r":106,
+      "g":125,
+      "b":80
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_poplar_light.png",
+        "count":7,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_poplar_medium",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_poplar_title",
+    "map color":{
+      "r":106,
+      "g":125,
+      "b":80
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_poplar_medium.png",
+        "count":7,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_poplar_dense",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_poplar_title",
+    "map color":{
+      "r":106,
+      "g":125,
+      "b":80
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_poplar_dense.png",
+        "count":9,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_grass_light",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_flora_tallgrass_title",
+    "map color":{
+      "r":46,
+      "g":79,
+      "b":29
+    },
+    "frames":[
+      {
+        "bmp":"flora/flora_1x1_tallgrass_light.png",
+        "count":2,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_grass_medium",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_flora_tallgrass_title",
+    "map color":{
+      "r":46,
+      "g":79,
+      "b":29
+    },
+    "frames":[
+      {
+        "bmp":"flora/flora_1x1_tallgrass_medium.png",
+        "count":2,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_grass_dense",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_flora_tallgrass_title",
+    "map color":{
+      "r":46,
+      "g":79,
+      "b":29
+    },
+    "frames":[
+      {
+        "bmp":"flora/flora_1x1_tallgrass_dense.png",
+        "count":2,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_sugarcane_light",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_flora_sugarcane_title",
+    "map color":{
+      "r":109,
+      "g":163,
+      "b":103
+    },
+    "frames":[
+      {
+        "bmp":"flora/flora_1x1_sugarcane_light.png",
+        "count":4,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_sugarcane_medium",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_flora_sugarcane_title",
+    "map color":{
+      "r":109,
+      "g":163,
+      "b":103
+    },
+    "frames":[
+      {
+        "bmp":"flora/flora_1x1_sugarcane_medium.png",
+        "count":4,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_sugarcane_dense",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_flora_sugarcane_title",
+    "map color":{
+      "r":109,
+      "g":163,
+      "b":103
+    },
+    "frames":[
+      {
+        "bmp":"flora/flora_1x1_sugarcane_dense.png",
+        "count":4,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_wildwheat_light",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_flora_wildwheat_title",
+    "map color":{
+      "r":157,
+      "g":195,
+      "b":101
+    },
+    "frames":[
+      {
+        "bmp":"flora/flora_1x1_WildWheat_light.png",
+        "count":3,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_wildwheat_medium",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_flora_wildwheat_title",
+    "map color":{
+      "r":157,
+      "g":195,
+      "b":101
+    },
+    "frames":[
+      {
+        "bmp":"flora/flora_1x1_WildWheat_medium.png",
+        "count":3,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_wildwheat_dense",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_flora_wildwheat_title",
+    "map color":{
+      "r":157,
+      "g":195,
+      "b":101
+    },
+    "frames":[
+      {
+        "bmp":"flora/flora_1x1_WildWheat_dense.png",
+        "count":3,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_ferns_light",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_flora_ferns_title",
+    "map color":{
+      "r":46,
+      "g":79,
+      "b":29
+    },
+    "frames":[
+      {
+        "bmp":"flora/flora_1x1_ferns_light.png",
+        "count":3,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_ferns_medium",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_flora_ferns_title",
+    "map color":{
+      "r":46,
+      "g":79,
+      "b":29
+    },
+    "frames":[
+      {
+        "bmp":"flora/flora_1x1_ferns_medium.png",
+        "count":2,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_ferns_dense",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_flora_ferns_title",
+    "map color":{
+      "r":46,
+      "g":79,
+      "b":29
+    },
+    "frames":[
+      {
+        "bmp":"flora/flora_1x1_ferns_dense.png",
+        "count":2,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_birch_light",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_birch_title",
+    "map color":{
+      "r":109,
+      "g":163,
+      "b":103
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_birch_light.png",
+        "count":12,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_birch_medium",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_birch_title",
+    "map color":{
+      "r":109,
+      "g":163,
+      "b":103
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_birch_medium.png",
+        "count":12,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_birch_dense",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_birch_title",
+    "map color":{
+      "r":109,
+      "g":163,
+      "b":103
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_birch_dense.png",
+        "count":8,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_burned_light",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_burned_title",
+    "map color":{
+      "r":42,
+      "g":35,
+      "b":32
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_burned_light.png",
+        "count":7,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_burned_medium",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_burned_title",
+    "map color":{
+      "r":42,
+      "g":35,
+      "b":32
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_burned_medium.png",
+        "count":7,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_burned_dense",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_burned_title",
+    "map color":{
+      "r":42,
+      "g":35,
+      "b":32
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_burned_dense.png",
+        "count":6,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_cypress_light",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_cypress_title",
+    "map color":{
+      "r":46,
+      "g":79,
+      "b":29
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_cypress_light.png",
+        "count":12,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_cypress_medium",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_cypress_title",
+    "map color":{
+      "r":46,
+      "g":79,
+      "b":29
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_cypress_medium.png",
+        "count":12,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_cypress_dense",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_cypress_title",
+    "map color":{
+      "r":46,
+      "g":79,
+      "b":29
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_cypress_dense.png",
+        "count":7,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_pine_light",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_pine_title",
+    "map color":{
+      "r":46,
+      "g":79,
+      "b":29
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_pine_light.png",
+        "count":7,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_pine_medium",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_pine_title",
+    "map color":{
+      "r":46,
+      "g":79,
+      "b":29
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_pine_medium.png",
+        "count":8,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_pine_dense",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_pine_title",
+    "map color":{
+      "r":46,
+      "g":79,
+      "b":29
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_pine_dense.png",
+        "count":10,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_flora_cattail_light",
+    "template":"$K012_template_water_flora",
+    "width":1,
+    "height":1,
+    "type":"decoration",
+    "map color":{
+      "r":109,
+      "g":163,
+      "b":103
+    },
+    "title id":"draft_flora_cattail_title",
+    "spawn":{
+      "height":0,
+      "p":0.75,
+      "radius":18
+    },
+    "frames":[
+      {
+        "bmp":"flora/waterflora_1x1_cattail_light.png",
+        "count":2,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_flora_cattail_medium",
+    "template":"$K012_template_water_flora",
+    "width":1,
+    "height":1,
+    "type":"decoration",
+    "map color":{
+      "r":109,
+      "g":163,
+      "b":103
+    },
+    "title id":"draft_flora_cattail_title",
+    "spawn":{
+      "height":0,
+      "p":0.75,
+      "radius":18
+    },
+    "frames":[
+      {
+        "bmp":"flora/waterflora_1x1_cattail_medium.png",
+        "count":2,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_flora_cattail_dense",
+    "template":"$K012_template_water_flora",
+    "width":1,
+    "height":1,
+    "type":"decoration",
+    "map color":{
+      "r":109,
+      "g":163,
+      "b":103
+    },
+    "title id":"draft_flora_cattail_title",
+    "spawn":{
+      "height":0,
+      "p":0.75,
+      "radius":18
+    },
+    "frames":[
+      {
+        "bmp":"flora/waterflora_1x1_cattail_dense.png",
+        "count":2,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_flora_lilypads_light",
+    "template":"$K012_template_water_flora",
+    "width":1,
+    "height":1,
+    "type":"decoration",
+    "map color":{
+      "r":46,
+      "g":79,
+      "b":29
+    },
+    "title id":"draft_flora_lilypads_title",
+    "spawn":{
+      "height":0,
+      "p":0.7,
+      "radius":18
+    },
+    "fun":[
+      {
+        "actions":[
+          {
+            "type":"play",
+            "id":"$K012_SFX_swamp1"
+          }
+        ],
+        "p":0.5
+      },
+      {
+        "actions":[
+          {
+            "type":"play",
+            "id":"$K012_SFX_swamp2"
+          }
+        ],
+        "p":0.5
+      }
+    ],
+    "frames":[
+      {
+        "bmp":"flora/waterflora_1x1_lilypads_light.png",
+        "count":5,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_flora_lilypads_medium",
+    "template":"$K012_template_water_flora",
+    "width":1,
+    "height":1,
+    "type":"decoration",
+    "map color":{
+      "r":46,
+      "g":79,
+      "b":29
+    },
+    "title id":"draft_flora_lilypads_title",
+    "spawn":{
+      "height":0,
+      "p":0.7,
+      "radius":18
+    },
+    "fun":[
+      {
+        "actions":[
+          {
+            "type":"play",
+            "id":"$K012_SFX_swamp1"
+          }
+        ],
+        "p":0.5
+      },
+      {
+        "actions":[
+          {
+            "type":"play",
+            "id":"$K012_SFX_swamp2"
+          }
+        ],
+        "p":0.5
+      }
+    ],
+    "frames":[
+      {
+        "bmp":"flora/waterflora_1x1_lilypads_medium.png",
+        "count":5,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_flora_lilypads_dense",
+    "template":"$K012_template_water_flora",
+    "width":1,
+    "height":1,
+    "type":"decoration",
+    "map color":{
+      "r":46,
+      "g":79,
+      "b":29
+    },
+    "title id":"draft_flora_lilypads_title",
+    "spawn":{
+      "height":0,
+      "p":0.7,
+      "radius":18
+    },
+    "fun":[
+      {
+        "actions":[
+          {
+            "type":"play",
+            "id":"$K012_SFX_swamp1"
+          }
+        ],
+        "p":0.5
+      },
+      {
+        "actions":[
+          {
+            "type":"play",
+            "id":"$K012_SFX_swamp2"
+          }
+        ],
+        "p":0.5
+      }
+    ],
+    "frames":[
+      {
+        "bmp":"flora/waterflora_1x1_lilypads_dense.png",
+        "count":5,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_flora_rice_light",
+    "template":"$K012_template_water_flora",
+    "width":1,
+    "height":1,
+    "type":"decoration",
+    "map color":{
+      "r":157,
+      "g":195,
+      "b":101
+    },
+    "title id":"draft_flora_rice_title",
+    "spawn":{
+      "height":0,
+      "p":0.8,
+      "radius":20
+    },
+    "frames":[
+      {
+        "bmp":"flora/waterflora_1x1_rice_light.png",
+        "count":2,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_flora_rice_medium",
+    "template":"$K012_template_water_flora",
+    "width":1,
+    "height":1,
+    "type":"decoration",
+    "map color":{
+      "r":157,
+      "g":195,
+      "b":101
+    },
+    "title id":"draft_flora_rice_title",
+    "spawn":{
+      "height":0,
+      "p":0.8,
+      "radius":20
+    },
+    "frames":[
+      {
+        "bmp":"flora/waterflora_1x1_rice_medium.png",
+        "count":2,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_flora_rice_dense",
+    "template":"$K012_template_water_flora",
+    "width":1,
+    "height":1,
+    "type":"decoration",
+    "map color":{
+      "r":157,
+      "g":195,
+      "b":101
+    },
+    "title id":"draft_flora_rice_title",
+    "spawn":{
+      "height":0,
+      "p":0.8,
+      "radius":20
+    },
+    "frames":[
+      {
+        "bmp":"flora/waterflora_1x1_rice_dense.png",
+        "count":2,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_mushrom_light",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_spore_mushroom_title",
+    "map color":{
+      "r":192,
+      "g":56,
+      "b":38
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_mushroom_light.png",
+        "count":16,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_mushroom_medium",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_spore_mushroom_title",
+    "map color":{
+      "r":192,
+      "g":56,
+      "b":38
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_mushroom_medium.png",
+        "count":12,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_mushroom_dense",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_spore_mushroom_title",
+    "map color":{
+      "r":192,
+      "g":56,
+      "b":38
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_mushroom_dense.png",
+        "count":12,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_sakura_light",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_sakura_title",
+    "map color":{
+      "r":220,
+      "g":160,
+      "b":220
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_sakura_light.png",
+        "count":12,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_sakura_medium",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_sakura_title",
+    "map color":{
+      "r":220,
+      "g":160,
+      "b":220
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_sakura_medium.png",
+        "count":12,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_sakura_dense",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_sakura_title",
+    "map color":{
+      "r":220,
+      "g":160,
+      "b":220
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_sakura_dense.png",
+        "count":8,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_berry_light",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_bush_berry_title",
+    "map color":{
+      "r":46,
+      "g":79,
+      "b":29
+    },
+    "frames":[
+      {
+        "bmp":"flora/bush_1x1_berry_light.png",
+        "count":6,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_berry_medium",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_bush_berry_title",
+    "map color":{
+      "r":46,
+      "g":79,
+      "b":29
+    },
+    "frames":[
+      {
+        "bmp":"flora/bush_1x1_berry_medium.png",
+        "count":4,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_berry_dense",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_bush_berry_title",
+    "map color":{
+      "r":46,
+      "g":79,
+      "b":29
+    },
+    "frames":[
+      {
+        "bmp":"flora/bush_1x1_berry_dense.png",
+        "count":4,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_cacti_light",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_bush_cacti_title",
+    "map color":{
+      "r":109,
+      "g":163,
+      "b":103
+    },
+    "frames":[
+      {
+        "bmp":"flora/bush_1x1_cacti_light.png",
+        "count":8,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_cacti_medium",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_bush_cacti_title",
+    "map color":{
+      "r":109,
+      "g":163,
+      "b":103
+    },
+    "frames":[
+      {
+        "bmp":"flora/bush_1x1_cacti_medium.png",
+        "count":6,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_cacti_dense",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_bush_cacti_title",
+    "map color":{
+      "r":109,
+      "g":163,
+      "b":103
+    },
+    "frames":[
+      {
+        "bmp":"flora/bush_1x1_cacti_dense.png",
+        "count":6,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_bush_light",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_bush_green_title",
+    "map color":{
+      "r":46,
+      "g":79,
+      "b":29
+    },
+    "frames":[
+      {
+        "bmp":"flora/bush_1x1_green_light.png",
+        "count":6,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_bush_medium",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_bush_green_title",
+    "map color":{
+      "r":46,
+      "g":79,
+      "b":29
+    },
+    "frames":[
+      {
+        "bmp":"flora/bush_1x1_green_medium.png",
+        "count":4,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_bush_dense",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_bush_green_title",
+    "map color":{
+      "r":46,
+      "g":79,
+      "b":29
+    },
+    "frames":[
+      {
+        "bmp":"flora/bush_1x1_green_dense.png",
+        "count":4,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_flower_light",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_flora_flower_title",
+    "map color":{
+      "r":255,
+      "g":0,
+      "b":255
+    },
+    "frames":[
+      {
+        "bmp":"flora/flora_1x1_flower_light.png",
+        "count":4,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_flower_medium",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_flora_flower_title",
+    "map color":{
+      "r":255,
+      "g":0,
+      "b":255
+    },
+    "frames":[
+      {
+        "bmp":"flora/flora_1x1_flower_medium.png",
+        "count":4,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_flower_dense",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_flora_flower_title",
+    "map color":{
+      "r":255,
+      "g":0,
+      "b":255
+    },
+    "frames":[
+      {
+        "bmp":"flora/flora_1x1_flower_dense.png",
+        "count":4,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_crystal_light",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_crystal_title",
+    "map color":{
+      "r":169,
+      "g":93,
+      "b":131
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_crystal_light.png",
+        "count":18,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_crystal_medium",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_crystal_title",
+    "map color":{
+      "r":169,
+      "g":93,
+      "b":131
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_crystal_medium.png",
+        "count":18,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_crystal_dense",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_crystal_title",
+    "map color":{
+      "r":169,
+      "g":93,
+      "b":131
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_crystal_dense.png",
+        "count":18,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_ThundercloudPurpleLeafPlum_light",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "map color":{
+      "r":169,
+      "g":93,
+      "b":131
+    },
+    "title id":"draft_tree_ThundercloudPurpleLeafPlum_title",
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_ThundercloudPurpleLeafPlum_light.png",
+        "count":10,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_ThundercloudPurpleLeafPlum_medium",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "map color":{
+      "r":169,
+      "g":93,
+      "b":131
+    },
+    "title id":"draft_tree_ThundercloudPurpleLeafPlum_title",
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_ThundercloudPurpleLeafPlum_medium.png",
+        "count":10,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_ThundercloudPurpleLeafPlum_dense",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "map color":{
+      "r":169,
+      "g":93,
+      "b":131
+    },
+    "title id":"draft_tree_ThundercloudPurpleLeafPlum_title",
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_ThundercloudPurpleLeafPlum_dense.png",
+        "count":8,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_chopped_light",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_chopped_title",
+    "map color":{
+      "r":192,
+      "g":56,
+      "b":38
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_ChoppedTrees_light.png",
+        "count":4,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_chopped_medium",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_chopped_title",
+    "map color":{
+      "r":192,
+      "g":56,
+      "b":38
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_ChoppedTrees_medium.png",
+        "count":4,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_chopped_dense",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_chopped_title",
+    "map color":{
+      "r":192,
+      "g":56,
+      "b":38
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_ChoppedTrees_dense.png",
+        "count":4,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_cottontop_light",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_cottontop_title",
+    "map color":{
+      "r":192,
+      "g":56,
+      "b":38
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_Cottontop_light.png",
+        "count":4,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_cottontop_medium",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_cottontop_title",
+    "map color":{
+      "r":192,
+      "g":56,
+      "b":38
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_Cottontop_medium.png",
+        "count":4,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_tree_cottontop_dense",
+    "template":"$K012_template_tree",
+    "type":"tree",
+    "category":"$cat_nat_tree00",
+    "title id":"draft_tree_cottontop_title",
+    "map color":{
+      "r":192,
+      "g":56,
+      "b":38
+    },
+    "frames":[
+      {
+        "bmp":"flora/tree_1x1_Cottontop_dense.png",
+        "count":4,
+        "w":32
+      }
+    ]
+  }
+]

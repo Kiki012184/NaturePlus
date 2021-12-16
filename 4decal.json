@@ -1,0 +1,531 @@
+[
+  {
+    "id":"$K012_dark_Concrete_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_concreted_title",
+    "map color":{
+      "r":150,
+      "g":150,
+      "b":150
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/GD_CI_DarkConcrete.png",
+        "w":32,
+        "count":1,
+        "copies":2
+      }
+    ]
+  },
+  {
+    "id":"$K012_light_Concrete_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_concretel_title",
+    "map color":{
+      "r":150,
+      "g":150,
+      "b":150
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/GD_CI_LightConcrete.png",
+        "w":32,
+        "count":1,
+        "copies":2
+      }
+    ]
+  },
+  {
+    "id":"$K012_sidewalk_Concrete_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_concretes_title",
+    "map color":{
+      "r":150,
+      "g":150,
+      "b":150
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/GD_CI_SidewalkConcrete.png",
+        "w":32,
+        "count":1,
+        "copies":2
+      }
+    ]
+  },
+  {
+    "id":"$K012_smoothstone_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_smoothstone_title",
+    "map color":{
+      "r":150,
+      "g":150,
+      "b":150
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/GD_CI_SmoothStone.png",
+        "w":32,
+        "count":2
+      },
+      {
+        "bmp":"ground/deco/GD_CI_SmoothStone.png",
+        "w":32,
+        "count":1
+      }
+    ]
+  },
+  {
+    "id":"$K012_Frameddarkpark_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_framedarkpark_title",
+    "map color":{
+      "r":83,
+      "g":83,
+      "b":83
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/GD_NA_FramedDarkPark.png",
+        "w":32,
+        "count":1,
+        "copies":2
+      }
+    ]
+  },
+  {
+    "id":"$K012_granite_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_granite_title",
+    "map color":{
+      "r":227,
+      "g":210,
+      "b":180
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/GD_NA_granite.png",
+        "w":32,
+        "count":3
+      }
+    ]
+  },
+  {
+    "id":"$K012_mudbrick_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_mudbrick_title",
+    "map color":{
+      "r":82,
+      "g":61,
+      "b":26
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/GD_NA_MudBrick.png",
+        "w":32,
+        "count":1,
+        "copies":2
+      }
+    ],
+    "border frames":[
+      {
+        "bmp":"ground/Border/terrain_mud_shore.png",
+        "count":16,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_pavement_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_pavement_title",
+    "map color":{
+      "r":83,
+      "g":83,
+      "b":83
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/GD_NA_Pavement.png",
+        "w":32,
+        "count":1,
+        "copies":2
+      }
+    ]
+  },
+  {
+    "id":"$K012_Plaza_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_plaza_title",
+    "map color":{
+      "r":241,
+      "g":233,
+      "b":210
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/GD_NA_Plaza.png",
+        "w":32,
+        "count":1,
+        "copies":2
+      }
+    ],
+    "border frames":[
+      {
+        "bmp":"ground/Border/terrain_sand_beach_shore.png",
+        "count":16,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_prettyconcrete_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_prettyconcrete_title",
+    "map color":{
+      "r":83,
+      "g":83,
+      "b":83
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/GD_NA_PrettyConcrete.png",
+        "w":32,
+        "count":1,
+        "copies":2
+      }
+    ]
+  },
+  {
+    "id":"$K012_sandstone_beach_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_sandstoneb_title",
+    "map color":{
+      "r":241,
+      "g":233,
+      "b":210
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/GD_NA_sandstone_beach.png",
+        "w":32,
+        "count":1,
+        "copies":2
+      }
+    ],
+    "border frames":[
+      {
+        "bmp":"ground/Border/terrain_sand_beach_shore.png",
+        "count":16,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_sandstone_black_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_sandstonebl_title",
+    "map color":{
+      "r":79,
+      "g":79,
+      "b":79
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/GD_NA_sandstone_black.png",
+        "w":32,
+        "count":1,
+        "copies":2
+      }
+    ],
+    "border frames":[
+      {
+        "bmp":"ground/Border/terrain_sand_black_shore.png",
+        "count":16,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_sandstone_desert_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_sandstoned_title",
+    "map color":{
+      "r":227,
+      "g":210,
+      "b":180
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/GD_NA_sandstone_desert.png",
+        "w":32,
+        "count":1,
+        "copies":2
+      }
+    ],
+    "border frames":[
+      {
+        "bmp":"ground/Border/terrain_sand_desert_shore.png",
+        "count":16,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_sandstone_red_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_sandstoner_title",
+    "map color":{
+      "r":181,
+      "g":83,
+      "b":38
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/GD_NA_sandstone_red.png",
+        "w":32,
+        "count":1,
+        "copies":2
+      }
+    ],
+    "border frames":[
+      {
+        "bmp":"ground/Border/terrain_sand_red_shore.png",
+        "count":16,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_smoothdirt_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_smoothdirt_title",
+    "map color":{
+      "r":82,
+      "g":61,
+      "b":26
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/GD_NA_SmoothDirt.png",
+        "w":32,
+        "count":2
+      },
+      {
+        "bmp":"ground/deco/GD_NA_SmoothDirt.png",
+        "w":32,
+        "count":1
+      }
+    ]
+  },
+  {
+    "id":"$K012_stonebrick_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_stonebrick_title",
+    "map color":{
+      "r":150,
+      "g":150,
+      "b":150
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/GD_NA_StoneBrick.png",
+        "w":32,
+        "count":1,
+        "copies":2
+      }
+    ]
+  },
+  {
+    "id":"$K012_grass_polluted_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_grass_pol_title",
+    "map color":{
+      "r":74,
+      "g":92,
+      "b":52
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/GD_res_PollutedGrass.png",
+        "w":32,
+        "count":3
+      }
+    ]
+  },
+  {
+    "id":"$K012_grass_roughsmooth_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_grass_rsg_title",
+    "map color":{
+      "r":74,
+      "g":92,
+      "b":52
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/GD_res_RougherSmoothGrass.png",
+        "w":32,
+        "count":3
+      }
+    ]
+  },
+  {
+    "id":"$K012_grass_smooth_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_grass_smo_title",
+    "map color":{
+      "r":74,
+      "g":92,
+      "b":52
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/GD_res_SmoothGrass.png",
+        "w":32,
+        "count":3
+      }
+    ]
+  },
+  {
+    "id":"$K012_Wave01_Concrete_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_ConcreteWAVE_title",
+    "map color":{
+      "r":150,
+      "g":150,
+      "b":150
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/ground_1x1_conc_light_dark_wave1_RF.png",
+        "w":32,
+        "count":3
+      }
+    ]
+  },
+  {
+    "id":"$K012_chartesroad_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_Chartesroad_title",
+    "map color":{
+      "r":83,
+      "g":83,
+      "b":83
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/GD_ind_ChartresRoad_RF.png",
+        "w":32,
+        "count":1,
+        "copies":2
+      }
+    ]
+  },
+  {
+    "id":"$K012_orangeslabs_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_orangeslabs_title",
+    "map color":{
+      "r":181,
+      "g":83,
+      "b":38
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/GD_NA_OrangeSlabs_RF.png",
+        "w":32,
+        "count":3
+      }
+    ],
+    "border frames":[
+      {
+        "bmp":"ground/Border/terrain_sand_red_shore.png",
+        "count":16,
+        "w":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_Eurowalkway_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_Eurowalkway_title",
+    "map color":{
+      "r":150,
+      "g":150,
+      "b":150
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/GD_NA_EuroWalkway_RF_Y8.png",
+        "w":32,
+        "count":3
+      }
+    ]
+  },
+  {
+    "id":"$K012_rough_concrete_00",
+    "type":"ground",
+    "category":"$cat_nat_decal00",
+    "template":"$K012_Template_ground",
+    "title id":"draft_ground_deco_roughconcrete_title",
+    "map color":{
+      "r":83,
+      "g":83,
+      "b":83
+    },
+    "frames":[
+      {
+        "bmp":"ground/deco/GD_CI_RoughConcrete_RF.png",
+        "w":32,
+        "count":3
+      }
+    ]
+  }
+]

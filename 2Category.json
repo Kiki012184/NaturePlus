@@ -1,0 +1,45 @@
+[
+  {
+    "id":"$cat_nat_terrain00",
+    "type":"category",
+    "frames":[
+      {
+        "steal":"$cat_terrain00"
+      }
+    ],
+    "title id":"draftselector_titleterrain"
+  },
+  {
+    "id":"$cat_nat_ground00",
+    "type":"category",
+    "title":"Ground[in]Tanah",
+    "frames":[
+      {
+        "steal":"$cat_terrain00"
+      }
+    ],
+    "category":"$cat_nat_terrain00"
+  },
+  {
+    "id":"$cat_nat_decal00",
+    "type":"category",
+    "title":"Decal[in]Aspal",
+    "frames":[
+      {
+        "steal":"$cat_asphalt00"
+      }
+    ],
+    "category":"$cat_nat_terrain00"
+  },
+  {
+    "id":"$cat_nat_tree00",
+    "type":"category",
+    "title":"Flora[in]Flora",
+    "frames":[
+      {
+        "steal":"$cat_tree00"
+      }
+    ],
+    "category":"$cat_nat_terrain00"
+  }
+]

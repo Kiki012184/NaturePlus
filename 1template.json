@@ -1,0 +1,68 @@
+[
+  {
+    "id":"$K012_template_tree",
+    "type":"template",
+    "auto build":false,
+    "price":100,
+    "price factor":0,
+    "influence pollution":-1,
+    "influence noise":-1,
+    "influence nature":1,
+    "influence radioactive":-1,
+    "author":"Code by Kiki012; owner by KT101"
+  },
+  {
+    "id":"$K012_template_water_flora",
+    "type":"template",
+    "auto build":false,
+    "price":0,
+    "price factor":0,
+    "influence pollution":-1,
+    "influence noise":-1,
+    "influence nature":1,
+    "influence radioactive":-1,
+    "author":"Code by Kiki012; owner by KT101",
+    "needs land":false,
+    "needs water":true,
+    "draw ground":true
+  },
+  {
+    "id":"$K012_Template_ground",
+    "type":"template",
+    "text id":"draft_desc_all",
+    "price":0,
+    "price factor":0,
+    "water":false,
+    "border frames":[
+      {
+        "bmp":"ground/Border/terrain_grass_shore.png",
+        "count":16,
+        "w":32
+      }
+    ],
+    "edge frames":[
+      {
+        "bmp":"misc/edge.png",
+        "w":16,
+        "count":16
+      }
+    ],
+    "edge border frames":[
+      {
+        "bmp":"misc/edge_border.png",
+        "w":16,
+        "count":32
+      }
+    ]
+  },
+  {
+    "id":"$K012_template_deco",
+    "type":"template",
+    "auto build":false,
+    "price":0,
+    "price factor":0,
+    "draw ground":true,
+    "width":1,
+    "height":1
+  }
+]
